@@ -1,5 +1,1 @@
-# diolive
-
-Api rest para gerenciamento de ponto e controle de acesso.
-
-Java | Spring boot | Spring Data Jpa | Hibernate | Lombok | swagger
+Projeto de Spring boot da dio de controle de ponto e acesso.
